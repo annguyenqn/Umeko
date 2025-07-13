@@ -1,0 +1,6 @@
+[submodule "Back-end/umeko_user_service"]
+	path = Back-end/umeko_user_service
+	url = https://github.com/annguyenqn/umeko_user_service.git
+[submodule "Front-end"]
+	path = Front-end
+	url = https://github.com/annguyenqn/Umeko_Front_End.git
